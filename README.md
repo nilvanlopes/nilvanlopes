@@ -3,8 +3,8 @@
 >Muito prazer. Eu sou Nilvan, estou em busca do meu espaço nessa comunidade maravilhosa que é a de tecnologia. Por aqui você conhece mais sobre mim, sobre o que eu faço e pretendo fazer na área do desenvolvimento. Fique a vontade.
   
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nilvanlopes&show_icons=true&count_private=true&hide_border=true&theme=dark&custom_title=Meu%20Histórico%20por%20aqui"/> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilvanlopes&layout=compact&hide_border=true&card_width=320&theme=dark&custom_title=O%20que%20eu%20mais%20uso" />
+  <img width="53%" height="195px" src="https://github-readme-stats-teal-three-88.vercel.app/api?username=nilvanlopes&show_icons=true&count_private=true&hide_border=true&theme=dark&custom_title=Meu%20Histórico%20por%20aqui"/> 
+  <img width="43%" height="195px" src="https://github-readme-stats-teal-three-88.vercel.app/api/top-langs/?username=nilvanlopes&layout=compact&hide_border=true&card_width=320&theme=dark&custom_title=O%20que%20eu%20mais%20uso" />
 </div>
 
 [![grafico de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=nilvanlopes&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
